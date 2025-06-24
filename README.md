@@ -1,6 +1,4 @@
 <img src="./img.png"/>
-<br/>
-<br/>
 
 # 💻 Exercícios em MIPS Assembly
 
